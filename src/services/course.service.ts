@@ -1,0 +1,1 @@
+// course.service.ts - placeholder
