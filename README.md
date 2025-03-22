@@ -20,4 +20,4 @@ A modern Learning Management System built with **Next.js**, **Firebase**, and ga
 ---
 
 ## 📁 Project Structure
-
+kabrita-lms/ ├── .github/workflows # CI/CD config ├── public/ # Static assets ├── scripts/ # Deploy helpers ├── src/ │ ├── app/ # App entry (if using app dir) │ ├── components/ # Reusable UI │ ├── contexts/ # Auth provider │ ├── lib/ # Firebase config │ ├── pages/ # Routes │ ├── services/ # Firebase service layer │ └── types/ # TypeScript interfaces
